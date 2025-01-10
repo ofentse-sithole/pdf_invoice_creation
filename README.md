@@ -23,7 +23,6 @@ Ensure you have the following installed on your machine:
    git clone https://github.com/yourusername/pdf_invoice_creation.git
 
 2. **Navigate to the project directory:**
-  ```bash
    cd pdf_invoice_creation
 
 3. Install dependencies:
