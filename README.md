@@ -22,9 +22,12 @@ Ensure you have the following installed on your machine:
    ```bash
    git clone https://github.com/yourusername/pdf_invoice_creation.git
 
-2. Navigate to the project directory: cd pdf_invoice_creation
+2. **Navigate to the project directory:**
+  ```bash
+   cd pdf_invoice_creation
 
-3. Install dependencies: npm install
+3. Install dependencies:
+   npm install
 
 ## Libraries/Dependencies
 
